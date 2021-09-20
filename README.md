@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohamed-Halith
+- 👋 Hi, I’m Halith 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React native
 - 💞️ I’m looking to collaborate with Other developer's
